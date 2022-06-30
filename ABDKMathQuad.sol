@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: BSD-4-Clause
+// SPDX-License-Identifier: BSD-3-Clause
 /*
  * ABDK Math Quad Smart Contract Library.  Copyright © 2019 by ABDK Consulting.
  * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
